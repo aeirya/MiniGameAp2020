@@ -1,0 +1,13 @@
+**/.DS_Store
+
+#eclipse files
+.settings/
+.classpath
+.project
+
+#intellij
+.idea/
+
+#vscode
+.vscode/
+
